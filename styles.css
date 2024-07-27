@@ -3,9 +3,13 @@
 }
 
 html {
-    background-color: lavender;
+    background-color: antiquewhite;
 }
 
 #summary {
     font-size: large;
+}
+
+footer {
+    text-align: center;
 }
